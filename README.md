@@ -33,6 +33,8 @@ Want to take your project to the next level? You can deploy your project (for fr
 | `npm run lint:css`  | Lint all Sass/CSS  |
 | `npm build`  | Build the project for production  |
 | `npm build:dev`  | Build the project for development  |
+| `npm build:dev`  | Build the project for development  |
+| `npm start` | Runs 'npm run serve' when on production and 'npm run dev' when not |
 
 [GitHub-RepoFromTemplate]: https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template
 [Heroku-About]: https://www.heroku.com/about
